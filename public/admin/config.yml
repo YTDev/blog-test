@@ -1,5 +1,6 @@
-name: git-gateway
-branch: main # Change this to whatever your master is
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
 
