@@ -1,5 +1,5 @@
 name: git-gateway
-  branch: main # Change this to whatever your master is
+branch: main # Change this to whatever your master is
 
 publish_mode: editorial_workflow
 
